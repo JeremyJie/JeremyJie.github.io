@@ -6,24 +6,24 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 邵先杰的个人博客
-brief-intro: 软件&硬件工程师
+title: 江上舟的个人博客
+brief-intro: 嵌入式软件工程师
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://deeploveHu.github.io" # the base hostname & protocol for your site
+url: "https://jeremysxj.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-github_username:  deeploveHu
+github_username:  jeremysxj
 email: jeremysxj@163.com
 
-description_footer: 本站记录我学习的点点滴滴！
+description_footer: 2021考研目标:山东大学！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
 duoshuo_shortname: #deeploveHu
-disqus_shortname: deeploveHu
+disqus_shortname: jeremysxj
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
